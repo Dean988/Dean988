@@ -30,5 +30,3 @@ I'm a Digital Humanist with expertise in merging humanities and technology, util
 </picture>
 
 ###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
